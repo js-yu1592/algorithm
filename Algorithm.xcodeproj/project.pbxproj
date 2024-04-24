@@ -53,6 +53,8 @@
 		2EDADEF92BCFC05A00D33799 /* 뉴스 클러스터링.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "뉴스 클러스터링.swift"; sourceTree = "<group>"; };
 		2EDADEFB2BD0BC5600D33799 /* 타겟 넘버.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "타겟 넘버.swift"; sourceTree = "<group>"; };
 		2EDADEFD2BD642B800D33799 /* k진수에서 소수 개수 구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "k진수에서 소수 개수 구하기.swift"; sourceTree = "<group>"; };
+		2EDADF3B2BD8F4D600D33799 /* 압축.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "압축.swift"; sourceTree = "<group>"; };
+		2EDADF3D2BD959EB00D33799 /* n진수 게임.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "n진수 게임.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,8 @@
 				2EDADEF92BCFC05A00D33799 /* 뉴스 클러스터링.swift */,
 				2EDADEFB2BD0BC5600D33799 /* 타겟 넘버.swift */,
 				2EDADEFD2BD642B800D33799 /* k진수에서 소수 개수 구하기.swift */,
+				2EDADF3B2BD8F4D600D33799 /* 압축.swift */,
+				2EDADF3D2BD959EB00D33799 /* n진수 게임.swift */,
 			);
 			path = Level2;
 			sourceTree = "<group>";
