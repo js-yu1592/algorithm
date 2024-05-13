@@ -23,6 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2E973E092BF1F203003BAA10 /* 모음사전.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "모음사전.swift"; sourceTree = "<group>"; };
+		2E973E0B2BF1FB09003BAA10 /* 방문 길이.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "방문 길이.swift"; sourceTree = "<group>"; };
 		2EDADEB92B984CC700D33799 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EDADEBC2B984CC700D33799 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		2EDADEC42B985E4800D33799 /* 옹알이 (2).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "옹알이 (2).swift"; sourceTree = "<group>"; };
@@ -134,6 +136,8 @@
 				2EDADEFD2BD642B800D33799 /* k진수에서 소수 개수 구하기.swift */,
 				2EDADF3B2BD8F4D600D33799 /* 압축.swift */,
 				2EDADF3D2BD959EB00D33799 /* n진수 게임.swift */,
+				2E973E092BF1F203003BAA10 /* 모음사전.swift */,
+				2E973E0B2BF1FB09003BAA10 /* 방문 길이.swift */,
 			);
 			path = Level2;
 			sourceTree = "<group>";
